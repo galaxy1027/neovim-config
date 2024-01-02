@@ -2,7 +2,7 @@ To use this configuration, just copy the nvim folder to ~/.config/nvim (macOS / 
 
 Theme used:  
 nvimgelion  
-molokai (lualine theme)  
+moonfly (lualine theme)  
 
 Plugins used:  
 telescope  
