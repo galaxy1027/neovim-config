@@ -1,13 +1,13 @@
 To use this configuration, just copy the nvim folder to ~/.config/nvim (macOS / Linux) or ~/AppData/Local/nvim (Windows)
 
-Theme used:
-nvimgelion
-molokai (lualine theme)
+Theme used:  
+nvimgelion  
+molokai (lualine theme)  
 
-Plugins used:
-telescope
-treesitter
-undotree
-vim-fugitive
-lualine
-lsp-zero (w/ mason for LSP server managment)
+Plugins used:  
+telescope  
+treesitter  
+undotree  
+vim-fugitive  
+lualine  
+lsp-zero (w/ mason for LSP server managment)  
