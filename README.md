@@ -11,3 +11,6 @@ undotree
 vim-fugitive  
 lualine  
 lsp-zero (w/ mason for LSP server managment)  
+
+Included dotfiles for programs that I like to use alongside neovim:  
+tmux
