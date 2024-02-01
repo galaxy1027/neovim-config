@@ -12,14 +12,16 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
+
+    -- Lazy
     {
-        'nyngwang/nvimgelion',
-        priority = 1000, --load this before other plugins
-        config = function ()
-            -- load the colorscheme
-            vim.cmd([[colorscheme nvimgelion]])
-        end,
+        "olimorris/onedarkpro.nvim",
+        priority = 1000, -- Ensure it loads first
+	config = function()
+		vim.cmd([[colorscheme onedark"]])
+	end,
     },
+
     {
         'nvim-telescope/telescope.nvim', tag = '0.1.5',
         -- or                              , branch = '0.1.x',
