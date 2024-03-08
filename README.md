@@ -1,7 +1,7 @@
 To use this configuration, just copy the nvim folder to ~/.config/nvim (macOS / Linux) or ~/AppData/Local/nvim (Windows)
 
 Theme used:  
-nvimgelion  
+One Dark  
 moonfly (lualine theme)  
 
 Plugins used:  
