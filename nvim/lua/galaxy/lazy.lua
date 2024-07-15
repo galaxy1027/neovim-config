@@ -31,12 +31,6 @@ require("lazy").setup({
         'nvim-treesitter/nvim-treesitter',
         build = ":TSUpdate",
     },
-    {
-        'mbbill/undotree',
-    },
-    {
-        'tpope/vim-fugitive',
-    },
 
     --- Uncomment these if you want to manage the language servers from neovim
     {'williamboman/mason.nvim'},
