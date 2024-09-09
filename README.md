@@ -7,7 +7,5 @@ moonfly (lualine theme)
 Plugins used:  
 telescope  
 treesitter  
-undotree  
-vim-fugitive  
 lualine  
 lsp-zero (w/ mason for LSP server managment)  
