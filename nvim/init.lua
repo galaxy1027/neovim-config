@@ -1,1 +1,1 @@
-require("galaxy")
+require("config")

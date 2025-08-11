@@ -1,4 +1,3 @@
-
 vim.opt.nu = true
 
 vim.opt.tabstop = 4
@@ -21,4 +20,3 @@ vim.opt.scrolloff = 4
 
 vim.opt.updatetime = 50
 
-vim.g.mapleader = " "
