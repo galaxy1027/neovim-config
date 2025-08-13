@@ -7,5 +7,5 @@ Plugins used:
 telescope  
 treesitter  
 lualine  
-mason
+mason (language server manager) + 
 lsp-cmp
