@@ -8,6 +8,6 @@ telescope
 treesitter  
 lualine  
 lsp-zero (w/ mason for LSP server managment)  
-autoclose 
+autoclose  
 mason (language server manager) + 
 lsp-cmp
