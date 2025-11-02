@@ -11,3 +11,4 @@ lsp-zero (w/ mason for LSP server managment)
 autoclose  
 mason (language server manager) + 
 lsp-cmp
+discord rich presence
